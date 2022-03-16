@@ -49,4 +49,4 @@ Belirteçleri doğrulamak amacıyla kullanılan dijital imza
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxOThmMzg0OS1jZTIzLTQ4NzYtYjFiZC1iYzljOTM2ZWVjNzYiLCJzdWIiOiJ0ZXN0QHRlc3QuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiQ29tbW9uIiwibmJmIjoxNTI1MjY4MjU5LCJleHAiOjE1MjUyNjgyODksImlzcyI6IlNhbXBsZUlzc3VlciIsImF1ZCI6IkpXUEFQSSJ9.qGImJxUkWzale_IHgIC5s0WRWyetZsShnMuNErXKUe4
 
 
-Refenrans : https://medium.com/@evandro.ggomes/json-web-token-authentication-with-asp-net-core-2-0-b074b0cfc870
+Referans : https://medium.com/@evandro.ggomes/json-web-token-authentication-with-asp-net-core-2-0-b074b0cfc870
